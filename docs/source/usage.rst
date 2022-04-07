@@ -32,11 +32,11 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
-.. Encabezado:
+.. _Encabezado:
 
 Este es el texto correspondiente a un encabezado.
 
-.. Tema 2:
+.. _Text 2:
 
 Este es el tema 2 correspondiente a este tipo de editor.
 
