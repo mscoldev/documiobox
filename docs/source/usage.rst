@@ -3,8 +3,11 @@ Usage
 
 .. _instalacion2:
 
+Esta es la tematica de la primera instalacion
+
 .. _Instalacion:
 
+Esta es la tematica de la segunda instalacion.
 
 .. _installation:
 
