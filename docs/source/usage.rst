@@ -1,6 +1,11 @@
 Usage
 =====
 
+.. _instalacion2:
+
+.. _Instalacion:
+
+
 .. _installation:
 
 Installation
